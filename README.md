@@ -7,4 +7,6 @@ The % operator gives the remainder when num is divided by 2. If the remainder is
 num = 45
 45 is odd
 ```
+# requirements
+-python3x
 
