@@ -8,5 +8,5 @@ num = 45
 45 is odd
 ```
 # requirements
--python3x
+-python3.x
 
